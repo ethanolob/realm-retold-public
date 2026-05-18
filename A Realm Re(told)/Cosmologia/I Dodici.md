@@ -1,0 +1,5 @@
+I **Dodici** sono il pantheon venerato da molti popoli di Eorzea. Ogni divinità è associata a ideali, elementi, mestieri, luoghi o aspetti della vita mortale. La loro fede è diffusa, ma non uniforme: un marinaio di Limsa Lominsa, un mercante di Ul’dah e un boscaiolo della Foresta Nera possono pregare gli stessi dèi in modi molto diversi.
+
+I Dodici sono invocati nei giuramenti, nei matrimoni, nei funerali, nelle partenze, nei contratti, nelle benedizioni e nelle maledizioni. Alcuni templi sono ricchi e ufficiali; altri sono piccoli santuari di strada, edicole rurali o pietre sacre dimenticate lungo i sentieri.
+
+Per la maggior parte degli eorzeani, pregare i Dodici non significa necessariamente ricevere miracoli visibili. Significa riconoscere che il mondo è più grande dell’uomo, che il destino è fragile e che anche l’avventuriero più coraggioso può avere bisogno di una benedizione prima di affrontare l’ignoto.

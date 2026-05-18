@@ -1,0 +1,5 @@
+Gli **aetheryte** sono grandi cristalli che permettono di viaggiare attraverso il flusso dell’aether. Si trovano soprattutto nelle città, negli insediamenti importanti e in luoghi strategici. Per gli avventurieri sono infrastrutture fondamentali, ma per molti abitanti comuni rimangono oggetti quasi sacri, osservati con rispetto e talvolta con timore.
+
+Per usare un aetheryte, una persona deve prima stabilire una sintonia con esso. Una volta sintonizzata, può sfruttare il cristallo per spostarsi rapidamente verso altri aetheryte conosciuti. Questo processo non è sempre privo di limiti: richiede capacità, familiarità con il luogo, sicurezza del cristallo e condizioni aetheriche favorevoli.
+
+Gli aetheryte collegano Eorzea, ma non cancellano le distanze. Strade, navi, chocobo, carovane e rotte commerciali restano essenziali, specialmente per chi trasporta merci, eserciti, bestiame o persone non abituate al viaggio aetherico.

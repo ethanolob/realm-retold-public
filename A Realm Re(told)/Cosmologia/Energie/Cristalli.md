@@ -1,0 +1,5 @@
+I **cristalli** sono aether condensato in forma fisica. Sono una delle risorse più importanti di Eorzea e vengono usati nella magia, nell’artigianato, nell’alchimia, nella metallurgia, nella cucina, nella navigazione e in molte altre attività quotidiane.
+
+La maggior parte dei cristalli è piccola e relativamente comune, ma alcuni sono rari, potenti o instabili. I cristalli elementali sono associati a forze come fuoco, ghiaccio, vento, terra, fulmine e acqua. I cristalli corrotti, invece, possono essere pericolosi da maneggiare e sono spesso collegati a luoghi devastati, calamità o forti squilibri aetherici.
+
+In Eorzea, un cristallo può essere merce, strumento, reliquia, fonte di potere o oggetto di venerazione. Per questo miniere, depositi cristallini e antichi frammenti aetherici sono spesso al centro di dispute commerciali, spedizioni pericolose e conflitti armati.

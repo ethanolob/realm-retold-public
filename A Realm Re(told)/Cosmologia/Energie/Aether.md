@@ -1,0 +1,5 @@
+L’**aether** è l’energia fondamentale che permea il mondo. Ogni creatura vivente possiede aether, così come molti luoghi, oggetti, cristalli e fenomeni naturali. L’aether è vita, magia e forza spirituale allo stesso tempo.
+
+I maghi manipolano l’aether per lanciare incantesimi, guarire ferite, evocare fiamme, proteggere alleati o alterare il mondo intorno a loro. Gli artigiani lo impiegano tramite cristalli e materiali carichi di energia. Gli studiosi lo osservano come una forza naturale, mentre sacerdoti e mistici lo considerano parte del ciclo sacro dell’esistenza.
+
+Quando l’aether scorre in modo armonioso, sostiene la vita. Quando viene disturbato, consumato o corrotto, può generare fenomeni pericolosi: terre contaminate, creature mutate, magie instabili, malattie spirituali o zone in cui la realtà sembra alterata.
