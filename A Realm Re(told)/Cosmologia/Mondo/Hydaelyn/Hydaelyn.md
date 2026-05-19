@@ -1,6 +1,6 @@
-Il mondo conosciuto è chiamato **Hydaelyn**. Per molti abitanti di Eorzea, Hydaelyn non è soltanto il nome del pianeta, ma anche un termine carico di significato spirituale: il mondo vivente, la terra benedetta dalla Luce, il luogo in cui scorrono vita, memoria e destino.
+Il mondo conosciuto è chiamato **Hydaelyn**. Per molti abitanti di [[Eorzea]], Hydaelyn non è soltanto il nome del pianeta, ma anche un termine carico di significato spirituale: il mondo vivente, la terra benedetta dalla [[Luce e Oscurità|Luce]], il luogo in cui scorrono vita, memoria e destino.
 
-La campagna si svolge principalmente in **Eorzea**, una regione situata nell’occidente dei Tre Grandi Continenti. Eorzea è una terra ricca di aether, cristalli, antiche rovine, città-stato indipendenti, tribù, mostri e conflitti irrisolti. Questa abbondanza di energia rende la regione prospera, ma anche instabile e contesa.
+La campagna si svolge principalmente in **[[Eorzea]]**, una regione situata nell’occidente dei Tre Grandi Continenti. Eorzea è una terra ricca di [[Aether]], [[Cristalli]], antiche rovine, città-stato indipendenti, tribù, mostri e conflitti irrisolti. Questa abbondanza di energia rende la regione prospera, ma anche instabile e contesa.
 
 Cinque anni prima dell’inizio della campagna, Eorzea è stata devastata dalla **Settima Calamità Umbrale**. Intere regioni sono state trasformate, città e villaggi hanno subito gravi perdite, e molte persone sono ancora segnate da ciò che è accaduto. Oggi Eorzea è una terra in ricostruzione: le sue nazioni cercano stabilità, i suoi popoli cercano speranza, e gli avventurieri sono chiamati a intervenire dove eserciti, gilde e governi non riescono ad arrivare.
 ![[Pasted image 20260518165751.png]]

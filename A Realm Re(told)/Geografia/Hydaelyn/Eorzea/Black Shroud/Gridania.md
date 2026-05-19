@@ -1,8 +1,8 @@
-**Gridania** è una città-stato immersa nelle profondità del **Twelveswood**, una vasta foresta antica dove natura, spiriti e civiltà convivono in un equilibrio delicato.
+**Gridania** è una città-stato immersa nelle profondità del [[Black Shroud]], una vasta foresta antica dove natura, spiriti e civiltà convivono in un equilibrio delicato.
 
 A differenza di altre città più aperte al commercio o alla conquista, Gridania vive secondo i ritmi della foresta. Le sue case, i suoi ponti e i suoi santuari sembrano crescere tra gli alberi più che imporsi su di essi, e la vita quotidiana è regolata da un profondo rispetto per il mondo naturale.
 
-Il cuore spirituale di Gridania è legato agli **Elementali**, entità misteriose che dimorano nel Twelveswood e la cui volontà influenza la vita della città. I Gridaniani credono che la sopravvivenza della loro comunità dipenda dall’armonia con questi spiriti e dal rispetto delle leggi non scritte della foresta.
+Il cuore spirituale di Gridania è legato agli [[Spiriti ed elementali|Elementali]], entità misteriose che dimorano nel Twelveswood e la cui volontà influenza la vita della città. I Gridaniani credono che la sopravvivenza della loro comunità dipenda dall’armonia con questi spiriti e dal rispetto delle leggi non scritte della foresta.
 
 La città è governata dai **Seedseer**, guide spirituali capaci di interpretare la volontà degli Elementali. Accanto a loro operano guardiani, guaritori, arcieri e lancieri incaricati di proteggere la città e i sentieri del bosco.
 

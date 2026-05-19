@@ -1,8 +1,8 @@
-Il **Warrior of Light** è il nome con cui vengono ricordati gli eroi destinati a opporsi alle grandi minacce che incombono su Eorzea.
+Il **Warrior of Light** è il nome con cui vengono ricordati gli eroi destinati a opporsi alle grandi minacce che incombono su [[Eorzea]].
 
 Non si tratta necessariamente di un titolo formale, né di un ruolo assegnato da una nazione o da un ordine militare. È piuttosto un simbolo: una figura di speranza che emerge nei momenti in cui il mondo sembra avvicinarsi all’oscurità.
 
-Nel corso della storia, il termine è stato associato ad avventurieri capaci di affrontare pericoli fuori dalla portata dei comuni mortali, resistere all’influenza dei Primals e agire quando regni, eserciti e istituzioni non bastano più. Per alcuni è una leggenda; per altri, una profezia; per altri ancora, solo il nome che la gente dà a chi riesce a compiere l’impossibile.
+Nel corso della storia, il termine è stato associato ad avventurieri capaci di affrontare pericoli fuori dalla portata dei comuni mortali, resistere all’influenza dei [[Primals]] e agire quando regni, eserciti e istituzioni non bastano più. Per alcuni è una leggenda; per altri, una profezia; per altri ancora, solo il nome che la gente dà a chi riesce a compiere l’impossibile.
 
 In questa campagna, il **Warrior of Light** non è un singolo individuo. È il gruppo dei personaggi giocanti nel suo insieme.
 

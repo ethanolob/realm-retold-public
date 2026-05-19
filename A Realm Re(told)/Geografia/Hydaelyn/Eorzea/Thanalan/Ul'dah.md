@@ -1,4 +1,4 @@
-**Ul’dah** è una ricca città-stato sorta nel deserto del **Thanalan**, celebre per i suoi mercati, le sue arene, le sue mura dorate e la sua ambizione senza freni.
+**Ul’dah** è una ricca città-stato sorta nel deserto del [[Thanalan]], celebre per i suoi mercati, le sue arene, le sue mura dorate e la sua ambizione senza freni.
 
 Qui il commercio è legge non scritta, e quasi ogni cosa ha un prezzo: merci, favori, protezione, informazioni e influenza politica. Mercanti, nobili, avventurieri, rifugiati e criminali si mescolano nelle sue strade, tutti attratti dalla promessa di ricchezza o dalla speranza di una nuova vita.
 

@@ -1,5 +1,5 @@
-La **magitek** è tecnologia alimentata da energia arcana, combustibili speciali o principi aetherici. È associata soprattutto all’**Impero Garleano**, una potenza militare nota per le sue macchine da guerra, armature meccaniche, armi avanzate e veicoli corazzati.
+La **magitek** è tecnologia alimentata da energia arcana, combustibili speciali o principi [[Aether|aetherici]]. È associata soprattutto all’**Impero Garleano**, una potenza militare nota per le sue macchine da guerra, armature meccaniche, armi avanzate e veicoli corazzati.
 
 Per molti eorzeani, la magitek è simbolo di conquista e oppressione. Le sue macchine hanno marciato sui campi di battaglia, sorvolato cieli in guerra e schiacciato difese che un tempo sembravano invincibili. Tuttavia, non tutti la vedono solo come un male: alcuni studiosi, ingegneri e mercanti la considerano una forma di progresso, pericolosa ma affascinante.
 
-Dal punto di vista cosmologico, la magitek dimostra che l’aether e le forze del mondo non appartengono solo a maghi e sacerdoti. Possono essere misurate, incanalate, industrializzate e trasformate in strumenti di potere.
+Dal punto di vista cosmologico, la magitek dimostra che l’[[Aether]]e le forze del mondo non appartengono solo a maghi e sacerdoti. Possono essere misurate, incanalate, industrializzate e trasformate in strumenti di potere.

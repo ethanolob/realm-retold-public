@@ -1,4 +1,4 @@
-**Limsa Lominsa** è una città-stato marittima costruita tra scogliere, ponti e torri bianche affacciate sul mare di **La Noscea**.
+**Limsa Lominsa** è una città-stato marittima costruita tra scogliere, ponti e torri bianche affacciate sul mare di [[La Noscea]].
 
 Nata tra rotte commerciali, flotte corsare e antiche tradizioni marinare, Limsa è una città di navigatori, mercanti, pescatori, pirati redenti e spiriti liberi. Il mare è la sua strada, la sua ricchezza e la sua minaccia più costante.
 
